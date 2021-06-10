@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Adam';
+    src: url('../font/Adam.eot');
+    src: url('../font/Adam.eot?#iefix') format('embedded-opentype'),
+        url('../font/Adam.woff2') format('woff2'),
+        url('../font/Adam.woff') format('woff'),
+        url('../font/Adam.ttf') format('truetype'),
+        url('../font/Adam.svg #Adam') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
